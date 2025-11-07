@@ -1,2 +1,2 @@
 # wechat_tools
-wx_dat_viewer.exe 电脑版微信聊天图片缓存的dat文件查看工具
+wx_dat_viewer.exe 电脑版微信聊天图片缓存的dat文件查看工具, C#开发, 需要.net framework 4.7及以上
